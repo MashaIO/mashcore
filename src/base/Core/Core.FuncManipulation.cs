@@ -1,4 +1,4 @@
-﻿namespace Masha.Foundation.Base.Core
+﻿namespace Masha.Foundation
 {
     using System;
     using System.Threading.Tasks;

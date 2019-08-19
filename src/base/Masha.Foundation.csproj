@@ -1,9 +1,9 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>Masha.Foundation</PackageId>
-    <Version>0.1.1</Version>
+    <Version>0.2</Version>
     <Authors>Sheik Uduman Ali M</Authors>
     <Company>Masha</Company>
     <Product>Masha Foundation</Product>
@@ -14,6 +14,7 @@
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseUrl>https://github.com/MashaIO/mashcore/blob/master/LICENSE</PackageLicenseUrl>
+    <LangVersion>7.1</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
